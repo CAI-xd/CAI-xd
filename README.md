@@ -11,6 +11,10 @@
 </div>
 
 <div align="center">
+    <h1>The main thing is to keep the main thing the main thing.</h1>
+</div>
+
+<div align="center">
     <img src="https://raw.githubusercontent.com/CAI-xd/CAI-xd/main/gif/retro_lifechoices.gif" alt="life" align="center">
 </div>
 
