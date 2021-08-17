@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+<img src="" alt="" align="center">
+</div>
 
-<!--
-**CAI-xd/CAI-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="" alt="" align="center">
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="" alt="" align="center">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+<img src="" alt="" align="center">
+</div>
