@@ -15,10 +15,6 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/CAI-xd/CAI-xd/main/gif/retro_lifechoices.gif" alt="life" align="center">
-</div>
-
-<div align="center">
     <h1>İstikbal göklerdedir.</h1>
 </div>
 
